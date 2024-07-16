@@ -1,15 +1,18 @@
 # Password Manager - Redux Toolkit
-The Password Manager app is a secure and user-friendly application designed to help users manage their passwords efficiently. Built with React for the frontend and utilizing local storage for data persistence, this app ensures that your sensitive information is stored safely on your device.
+The Project Manager app is a comprehensive tool designed to help teams and individuals manage their projects efficiently. It provides a range of features to streamline project planning, execution, and monitoring. This project is a Password Manager application built using React for the frontend and MongoDB for the backend.
 
 ### Features
-- Secure Password Storage: Store passwords along with website URLs and usernames securely.
-- Local Storage: Utilize the browser’s local storage to save passwords, ensuring data remains on your device.
-- Easy Access: Quickly view, copy, and visit saved URLs.
-- Responsive Design: Fully responsive design that works seamlessly on various devices and screen sizes.
-- User-Friendly Interface: Simple and intuitive interface for easy navigation and management of passwords.
+- Password Storage: Store passwords securely with website URL, username, and password.
+- MongoDB Storage: Use MongoDB to store passwords securely.
+- Display Saved Data: View saved passwords and related information.
+- Copy and Visit URLs: Copy saved data and visit URLs directly.
+- Responsive Design: Fully responsive design that adapts to different screen sizes.
  
 ### Technologies Used
 - React: For building the user interface.
+- Node.js: For backend development.
+- MongoDB: For database management.
+- Express.js: For server-side logic.
 - Tailwind CSS: For styling the application.
 
 <!-- # React + Vite
