@@ -1,5 +1,5 @@
 # Password Manager - Redux Toolkit
-The Project Manager app is a comprehensive tool designed to help teams and individuals manage their projects efficiently. It provides a range of features to streamline project planning, execution, and monitoring. This project is a Password Manager application built using React for the frontend and MongoDB for the backend.
+This project is a Password Manager application built using React for the frontend and MongoDB for the backend.
 
 ### Features
 - Password Storage: Store passwords securely with website URL, username, and password.
